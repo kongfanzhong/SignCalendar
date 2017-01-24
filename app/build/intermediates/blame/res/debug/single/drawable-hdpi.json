@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_transparent.png",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable-hdpi\\icon_transparent.png"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calendar_date_focused.png",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable-hdpi\\calendar_date_focused.png"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calendar_next_focused.png",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable-hdpi\\calendar_next_focused.png"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calendar_last_unfocused.png",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable-hdpi\\calendar_last_unfocused.png"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\r5.png",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable-hdpi\\r5.png"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calendar_day_bg.9.png",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable-hdpi\\calendar_day_bg.9.png"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calendar_bg.9.png",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable-hdpi\\calendar_bg.9.png"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calendar_bg_tag.png",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable-hdpi\\calendar_bg_tag.png"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calendar_last_focused.png",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable-hdpi\\calendar_last_focused.png"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calendar_next_unfocused.png",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable-hdpi\\calendar_next_unfocused.png"
+    }
+]

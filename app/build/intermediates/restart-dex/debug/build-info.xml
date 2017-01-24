@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="25"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="109976914895508"
+    token="-1331760565094270365"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="668" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="189" />
+    <task
+        name="verifier"
+        duration="26" />
+
+    <artifact
+        location="E:\study\UMLife\Project\SignCalendar\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="109976914895508"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\study\UMLife\Project\SignCalendar\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_nobgd.xml",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_sign_today.xml",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable\\bg_sign_today.xml"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_calendar_last.xml",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable\\bt_calendar_last.xml"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_sign_bg_selector.xml",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable\\btn_sign_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_sign_bg_enable.xml",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable\\btn_sign_bg_enable.xml"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_gray.xml",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable\\button_gray.xml"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_calendar_next.xml",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable\\bt_calendar_next.xml"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_bgd.xml",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable\\bt_bgd.xml"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_sign_bg_unable.xml",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable\\btn_sign_bg_unable.xml"
+    },
+    {
+        "merged": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_dialog_day_bg.xml",
+        "source": "E:\\study\\UMLife\\Project\\SignCalendar\\app\\src\\main\\res\\drawable\\sign_dialog_day_bg.xml"
+    }
+]
